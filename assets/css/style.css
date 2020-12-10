@@ -490,7 +490,7 @@ section {
         grid-column: 1 / -1;
     }
 
-    .service-grd-item.cancel {
+    .service-grid-item.cancel {
         transform: none;
         writing-mode: unset;
         grid-column: 1 / -1;
